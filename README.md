@@ -21,3 +21,11 @@ To view the Apple website clone, simply open the `index.html` file in a web brow
 
 Feel free to contribute to this project by creating pull requests or opening issues for suggestions and improvements.
 
+### Here is the Screenshot of Website
+
+![image](https://github.com/Shivendra66/Apple-website-clone/assets/110164870/9a180347-4335-4f38-a364-3e609b82224a)
+
+
+![image](https://github.com/Shivendra66/Apple-website-clone/assets/110164870/c7479462-3f2b-4685-9e41-b3d3ed9a41a2)
+
+
